@@ -2,4 +2,4 @@
 
 #### Preparación de Sandwich:
 
-Imagen: ![Alt-Text](imagen.jpeg)
+[Alt-Text](imagen.jpeg)
